@@ -613,9 +613,9 @@
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
           <zone h='98100' id='13' param='horz' type-v2='layout-flow' w='99142' x='429' y='950'>
             <zone h='98100' id='11' type-v2='layout-basic' w='99142' x='429' y='950'>
-              <zone h='42043' id='5' param='horz' type-v2='layout-flow' w='99142' x='429' y='57007'>
-                <zone h='42043' id='3' type-v2='layout-basic' w='99142' x='429' y='57007'>
-                  <zone h='42043' id='9' name='Line Graph' w='99142' x='429' y='57007'>
+              <zone h='42044' id='5' param='horz' type-v2='layout-flow' w='99142' x='429' y='57006'>
+                <zone h='42044' id='3' type-v2='layout-basic' w='99142' x='429' y='57006'>
+                  <zone h='42044' id='9' name='Line Graph' w='99142' x='429' y='57006'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -623,7 +623,7 @@
                       <format attr='margin' value='4' />
                     </zone-style>
                   </zone>
-                  <zone h='0' id='6' name='Map' pane-specification-id='0' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[sum:Percentage:qk]' type-v2='color' w='63811' x='35760' y='57007'>
+                  <zone h='0' id='6' name='Map' pane-specification-id='0' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[sum:Percentage:qk]' type-v2='color' w='63812' x='35759' y='57006'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -633,7 +633,7 @@
                   </zone>
                 </zone>
               </zone>
-              <zone h='56057' id='1' name='Map' show-title='false' w='52225' x='429' y='950'>
+              <zone h='56056' id='1' name='Map' show-title='false' w='52224' x='429' y='950'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -641,7 +641,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='43824' id='10' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:State:nk]' type-v2='filter' values='database' w='8043' x='91528' y='13183'>
+              <zone h='43824' id='10' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:State:nk]' type-v2='filter' values='database' w='8044' x='91527' y='13182'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -649,7 +649,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='6413' id='8' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Time Period Label:nk]' type-v2='filter' w='8043' x='91528' y='950'>
+              <zone h='6412' id='8' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Time Period Label:nk]' type-v2='filter' w='8044' x='91527' y='950'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -657,7 +657,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5820' id='14' mode='dropdown' name='Map' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Indicator:nk]' type-v2='filter' values='database' w='8043' x='91528' y='7363'>
+              <zone h='5820' id='14' mode='dropdown' name='Map' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Indicator:nk]' type-v2='filter' values='database' w='8044' x='91527' y='7362'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -665,7 +665,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='56057' id='7' name='Bar Graph' w='38874' x='52654' y='950'>
+              <zone h='56056' id='7' name='Bar Graph' w='38874' x='52653' y='950'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -687,9 +687,9 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='18' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98100' id='17' param='vert' type-v2='layout-flow' w='99142' x='429' y='950'>
-                <zone h='5820' id='14' mode='dropdown' name='Map' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Indicator:nk]' type-v2='filter' values='database' w='8043' x='91528' y='7363'>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98100' id='19' param='vert' type-v2='layout-flow' w='99142' x='429' y='950'>
+                <zone h='5820' id='14' mode='dropdown' name='Map' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Indicator:nk]' type-v2='filter' values='database' w='8044' x='91527' y='7362'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -698,7 +698,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='56057' id='1' is-fixed='true' name='Map' show-title='false' w='52225' x='429' y='950'>
+                <zone fixed-size='280' h='56056' id='1' is-fixed='true' name='Map' show-title='false' w='52224' x='429' y='950'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -707,7 +707,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='0' id='6' name='Map' pane-specification-id='0' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[sum:Percentage:qk]' type-v2='color' w='63811' x='35760' y='57007'>
+                <zone h='0' id='6' name='Map' pane-specification-id='0' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[sum:Percentage:qk]' type-v2='color' w='63812' x='35759' y='57006'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -716,7 +716,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='43824' id='10' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:State:nk]' type-v2='filter' values='database' w='8043' x='91528' y='13183'>
+                <zone h='43824' id='10' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:State:nk]' type-v2='filter' values='database' w='8044' x='91527' y='13182'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -725,7 +725,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='6413' id='8' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Time Period Label:nk]' type-v2='filter' w='8043' x='91528' y='950'>
+                <zone h='6412' id='8' mode='dropdown' name='Bar Graph' param='[federated.0tqvjso14k5qrg10ls9tc0ewa0xw].[none:Time Period Label:nk]' type-v2='filter' w='8044' x='91527' y='950'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -734,7 +734,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='56057' id='7' is-fixed='true' name='Bar Graph' w='38874' x='52654' y='950'>
+                <zone fixed-size='280' h='56056' id='7' is-fixed='true' name='Bar Graph' w='38874' x='52653' y='950'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -743,7 +743,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='42043' id='9' is-fixed='true' name='Line Graph' w='99142' x='429' y='57007'>
+                <zone fixed-size='280' h='42044' id='9' is-fixed='true' name='Line Graph' w='99142' x='429' y='57006'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
